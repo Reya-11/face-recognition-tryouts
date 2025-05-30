@@ -1,0 +1,6 @@
+tensorflow==2.14.0
+dlib
+opencv-python
+scikit-learn
+numpy
+imutils
