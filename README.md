@@ -15,5 +15,3 @@
 4. Run `main.py` to train.
 5. Run `webcam_live.py` to test live.
 
-## Authors
-OpenAI GPT-4 + You!
